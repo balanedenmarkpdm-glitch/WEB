@@ -1,0 +1,18 @@
+.h{
+   text-align: center; h1{font-size: 32px;} background-color: khaki;
+   .ha{font-size: 10px; text-align: center;  display: space-evenly; background-color: lightcoral; justify-content: center; gap: 30px; display: flex;} 
+}
+
+.a{display:flex; align-items: center; justify-content: center; background-color: antiquewhite; box-sizing: content-box; align-content: center; position: absolute;
+}
+
+.haa{
+    text-align: center; h1{font-size: 32px;} background-color: khaki;
+    h2{font-size: 10px; text-align: center;  display: space-evenly; background-color: lightcoral; justify-content: center; gap: 30px; display: flex;} 
+ }
+
+ .haaaa{
+    text-align: center; h1{font-size: 32px;} background-color: khaki;
+    h2{font-size: 10px; text-align: center;  display: space-evenly; background-color: lightcoral; justify-content: center; gap: 30px; display: flex;} 
+ }
+

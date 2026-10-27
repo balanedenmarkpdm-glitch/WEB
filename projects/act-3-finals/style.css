@@ -1,0 +1,76 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.card-main{
+    background-color: aliceblue;
+    border-radius:30px ;
+    width: 50%;
+    margin: auto;
+    border: double;
+    padding: 30px;
+}
+.card{
+    text-align: center;
+}
+
+.card1{
+    text-align: centers;
+    margin: auto;
+    padding: 20px;
+    border: solid;
+    border-radius: 50px;
+    background-color: antiquewhite;
+    width: 80%;
+    
+}
+
+
+table{
+    margin: auto;
+    width: 80%;
+}
+
+th{
+    background-color: black;
+    -webkit-text-fill-color: white;
+}
+tr{
+    text-align: center;
+}
+
+
+.option{
+    margin-left: 30px;
+    width: 80%;
+
+}
+
+.btn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    margin: 20px;
+}
+#btnShow{
+    background-color: antiquewhite;
+}
+#btnShow1{
+    background-color: antiquewhite;
+}
+#btnChange{
+    background-color: antiquewhite;
+}
+#btnHide{
+    background-color: antiquewhite;
+}
+#btnHide1{
+    background-color: antiquewhite;
+}
+#btnOdd{
+    background-color: antiquewhite;
+}
+#btnEven{
+    background-color: antiquewhite;
+}
